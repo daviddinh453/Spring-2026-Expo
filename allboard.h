@@ -500,4 +500,4 @@ void handleBuzzer(int level, unsigned long now) {
     digitalWrite(PIN_BUZZER, LOW);
     buzzerState = false;
   }
-} 
+}  
